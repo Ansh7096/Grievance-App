@@ -6,7 +6,7 @@ import { WebView } from 'react-native-webview';
 // You MUST replace this placeholder with the live URL of your DEPLOYED gmp_user web application.
 // For local testing on an Android emulator, you can use 'http://10.0.2.2:PORT'
 // where PORT is the port your web app is running on (e.g., 3000).
-const WEBSITE_URL = 'https://gmp-user-ui41.vercel.app';
+const WEBSITE_URL = 'https://gmp-user-ui41.vercel.app/login';
 // --------------------
 
 // This component will show a loading spinner while the website is loading.
