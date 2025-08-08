@@ -1,0 +1,5 @@
+# ninja log v5
+8	62	0	C:/app/GrievanceAppNew/android/app/.cxx/Debug/6n42264m/x86_64/CMakeFiles/cmake.verify_globs	b2f6e9fa73166f60
+1	11764	7763540651031230	CMakeFiles/appmodules.dir/C_/app/GrievanceAppNew/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	86ca7a1cfecfdf3a
+10	13148	7763540664832479	CMakeFiles/appmodules.dir/OnLoad.cpp.o	c4aca4a9a0426d45
+13150	13392	7763540668419365	C:/app/GrievanceAppNew/android/app/build/intermediates/cxx/Debug/6n42264m/obj/x86_64/libappmodules.so	48033fd8026f7d63
